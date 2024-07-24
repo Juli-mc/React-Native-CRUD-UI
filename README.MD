@@ -1,6 +1,6 @@
 # 🇬🇧 React Native Expo technical test with Dummyapi 🇬🇧
 
-[![Watch the video](https://youtu.be/7hIaIGZG85c)](https://youtu.be/7hIaIGZG85c)
+[![Ver Demo](assets/thumbnail.png)](assets/demo-final.mp4)
 
 This application has been built with **React Native Expo**.
 To skip the introductions it is a **CRUD** that I count with the main methods for a server.
