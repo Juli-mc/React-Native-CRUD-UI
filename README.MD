@@ -9,9 +9,9 @@ Developed and built using **Expo Go** with _npx expo start -c_ on an **iOS 17.5.
 
 ***Remember to read the code and read the comment lines to understand how it works.***
 
-Use with
-*npm install*
-*npx expo start -c*
+Use with <br />
+*npm install* <br />
+*npx expo start -c* <br />
 
 # 🇪🇸 React Native Expo prueba técnica con Dummyapi 🇪🇸
 
@@ -24,6 +24,6 @@ Desarrollada y construida mediante **Expo Go** con _npx expo start -c_ en un dis
 
 ***Recuerda leer el codigo y leer las lineas de comentarios para entender el funcionamiento global de la aplicación.***
 
-Ejecuta con
-*npm install*
-*npx expo start -c*
+Ejecuta con <br />
+*npm install* <br />
+*npx expo start -c* <br />
