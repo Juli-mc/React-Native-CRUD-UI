@@ -1,5 +1,7 @@
 # 🇬🇧 React Native Expo technical test with Dummyapi 🇬🇧
 
+[![Watch the video](https://img.youtube.com/vi/7hIaIGZG85c/0.jpg)](https://www.youtube.com/watch?v=7hIaIGZG85c)
+
 This application has been built with **React Native Expo**.
 To skip the introductions it is a **CRUD** that I count with the main methods for a server.
 **(PUT, POST, DELETE, GET)**
