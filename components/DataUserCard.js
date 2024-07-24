@@ -193,7 +193,9 @@ const DataUserCard = (props) => {
           <Separator marginVertical={15} />
           <View>
             {modalForm ? (
-              <LoaderCard />
+              <YStack padding="$2" space="$4" alignItems="center">
+                <Spinner size="large" color="$blue10" />
+              </YStack>
             ) : (
               <View style={{ gap: 15 }}>
                 <Button
